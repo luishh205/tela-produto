@@ -7,11 +7,11 @@ const product = {
   title: "Tênis Esportivo Masculino",
   price: 199.99,
   images: [
-    "/img/img(1).jpeg",
-    "/img/img(2).jpeg",
-    "/img/img(3).jpeg",
-    "/img/img(4).jpeg",
-    "/img/img(5).jpeg",
+    "img/img(1).jpeg",
+    "img/img(2).jpeg",
+    "img/img(3).jpeg",
+    "img/img(4).jpeg",
+    "img/img(5).jpeg",
   ],
   sizes: ["36", "37", "38", "39", "40"],
   colors: ["Preto", "Branco", "Azul"]
